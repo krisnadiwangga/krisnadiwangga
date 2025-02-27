@@ -1,13 +1,13 @@
 # My Profile
 
 
-## 📲 Kontak Developer [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Sayonara_nih) 
+## 📲 Kontak Developer [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Sayonara_3x) 
 <br>
 
 ![Profile Dilihat](https://komarev.com/ghpvc/?username=apisuserbot&color=blue&style=flat-square&label=Profile+Dilihat)
 ### Statistik
-<p align="center"><a href="https://github.com/krisnadiwangga"><img src="https://github-readme-stats.vercel.app/api?username=krisnadiwangga&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/krisnadiwangga"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisnadiwangga&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/krisnadiwangga"><img src="https://github-readme-stats.vercel.app/api?username=sayonara&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/sayonara"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayonara&theme=radical&layout=compact"></a></p> 
 
 
    <h3 align="left">Bahasa dan Code</h3>
@@ -28,6 +28,6 @@
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/krisnadiwangga?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSolo)
+![Metrics](https://metrics.lecoq.io/sayonara?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSolo)
 
 </details>
