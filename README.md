@@ -21,7 +21,7 @@
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=krisnadiwangga)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=sayonara)
 
 </details>
 
