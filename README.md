@@ -16,7 +16,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krisnadiwangga&" alt="krisnadiwangga
 ### Mari terhubung!
 <p>
-    <a href="https://instagram.com/krisnadiwangga03" target="blank"><img src="https://img.shields.io/badge/krisna diwangga03-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://instagram.com/krisnadiwangga03" target="blank"><img src="https://img.shields.io/badge/sayonara-30302f?style=flat&logo=instagram" /></a>
 </p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
